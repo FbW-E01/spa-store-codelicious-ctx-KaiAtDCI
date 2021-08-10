@@ -12,3 +12,13 @@
 .App > p, .App > h1 {
     text-align: center;
 }
+
+.dark-theme {
+    background-color: black;
+    color: whitesmoke;
+}
+
+.light-theme {
+    background-color: whitesmoke;
+    color: black;
+}
